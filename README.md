@@ -1,0 +1,1 @@
+Simple ruby projects / exercises to refresh my Ruby knowledge
